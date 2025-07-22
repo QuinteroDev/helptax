@@ -108,8 +108,8 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) par
 
 **Iván Ruiz Quintero**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu perfil](https://linkedin.com/in/tu-perfil)
+- GitHub: [quinterodev](https://github.com/quinterodev)
+- LinkedIn: [quinterodev](https://linkedin.com/in/quinterodev)
 
 ---
 
